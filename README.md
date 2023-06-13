@@ -16,10 +16,10 @@ Based on various meteorological surveys and people's styles, the service provide
 You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
 ### Technologies Used:
-Python version 3.9.13
-Pandas version 1.4.4
-Numpy version 1.21.5
-Matplotlib version 3.5.2 
-Seaborn version 0.11.2
-Sklearn version 1.0.2
-statsmodels version 0.13.2
+- Python - version 3.9.13
+- Pandas - version 1.4.4
+- Numpy - version 1.21.5
+- Matplotlib - version 3.5.2 
+- Seaborn - version 0.11.2
+- Sklearn - version 1.0.2
+- statsmodels - version 0.13.2
