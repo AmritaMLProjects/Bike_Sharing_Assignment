@@ -23,3 +23,16 @@ You are required to model the demand for shared bikes with the available indepen
 - Seaborn - version 0.11.2
 - Sklearn - version 1.0.2
 - statsmodels - version 0.13.2
+
+### Conclusion
+Significant variables to predict the demand for shared bikes
+
+- temp
+- yr
+- season_winter
+- mnth_sept
+- weekday_sat
+- workingday
+- weathersit_moderate
+- mnth_dec
+- windspeed
